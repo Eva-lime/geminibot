@@ -1,7 +1,7 @@
-API_TOKEN = "6662777435:AAGLigqhGsqLod9AeoviIPV6XGXCCIRKmPw"  # https://t.me/BotHelp_Fatherbot
+API_TOKEN = ""  # https://t.me/BotHelp_Fatherbot
 GOOGLE_API_KEY_list = [
-    "AIzaSyDMQ-kvJtCS-JWAW0hsewNJnxaJlC69D8I",  # https://aistudio.google.com/app/apikey
-    "AIzaSyDk0VLcOcEnfCsfJZBUCvr4fFjZSMxjDRE",  # https://aistudio.google.com/app/apikey
+    "",  # https://aistudio.google.com/app/apikey
+    "",  # https://aistudio.google.com/app/apikey
 ]
 DEFAULT_MODEL = 'gemini-1.5-flash'  # Default model to use
 history_json = None  # Stable variable that cannot be changed
